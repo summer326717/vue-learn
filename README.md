@@ -12,11 +12,11 @@
 <p>c.<code>npm install</code></p>
 <p>d.<code>npm run dev</code></p>
 
-![img]()
+![img](https://github.com/summer326717/vue-learn/blob/master/static/images/img_01.gif)
 
 #### 3.配置element ui
 
-![img]()
+![img](https://github.com/summer326717/vue-learn/blob/master/static/images/img_02.gif)
 
 ### 4.开始后台管理系统的开发.
 
